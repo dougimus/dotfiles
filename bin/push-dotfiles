@@ -1,0 +1,4 @@
+#!/bin/bash
+git="git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
+
+$git remote set-url --push origin git@github.com:dougimus/dotfiles.git
