@@ -1,3 +1,5 @@
 [user]
 	email = douglas.ward@prolly.org
 	name = Douglas Ward
+[core]
+	editor = vim
